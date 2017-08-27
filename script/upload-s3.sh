@@ -1,3 +1,3 @@
 #!/bin/bash
 
-aws s3 cp $CIRCLE_ARTIFACTS/application* $S3_BUCKET/assets/
+aws s3 cp ./ s3://circle-deploy-test-dive/texts
