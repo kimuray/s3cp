@@ -1,3 +1,3 @@
 #!/bin/bash
 
-aws s3 sync ./texts s3://text-delivery/texts
+aws s3 cp ./texts s3://text-delivery/texts --recursive
