@@ -1,5 +1,5 @@
 zzzzzzzzzzzzzzzz
-<!---- deploy info -->
+<!---- deploy info ---->
 
 # Railsのルーティングを学ぶ（基礎編）
 
