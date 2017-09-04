@@ -1,5 +1,5 @@
 5d2f2529cfa5992b
-<!---- deploy info ---->
+<!---- deploy info -->
 dddcccc
 cccccd
 xxxxxxxxx
